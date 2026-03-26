@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-[View Live →](https://your-live-link-here.vercel.app)
+> [Click here to view the website](https://Aakritijain30.github.io/abyssal)
 
 ---
 
